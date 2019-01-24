@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
-
+<p> NOTE: this is not my personal work just sharing it whit people</p>
+<p> you can find it here </p>
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
 Sounds boring. Let's try again.
