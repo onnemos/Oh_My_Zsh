@@ -2,8 +2,10 @@
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
 <p> NOTE: this is not my personal work just sharing it whit people</p>
-<p> you can find it here </p>
-<a href="https://github.com/robbyrussell">https://github.com/robbyrussell</a>
+<p>
+  you can find more here
+  <a href="https://github.com/robbyrussell">https://github.com/robbyrussell</a><br>
+ </p>
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
 Sounds boring. Let's try again.
