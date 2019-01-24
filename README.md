@@ -3,6 +3,7 @@
 </p>
 <p> NOTE: this is not my personal work just sharing it whit people</p>
 <p> you can find it here </p>
+<a href="https://github.com/robbyrussell">https://github.com/robbyrussell</a>
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
 
 Sounds boring. Let's try again.
